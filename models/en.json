@@ -1,0 +1,61 @@
+{
+  "invocation": "my test app",
+  "version": "4.0",
+  "intents": {
+    "YesIntent": {
+      "phrases": [
+        "yes",
+        "yes please",
+        "sure"
+      ]
+    },
+    "NoIntent": {
+      "phrases": [
+        "no",
+        "no thanks"
+      ]
+    },
+    "CheckBalanceIntent": {
+      "phrases": [
+        "I want to check my balance",
+        "what is my balance",
+        "balance"
+      ]
+    },
+    "CancelCardIntent": {
+      "phrases": [
+        "I want to cancel my card",
+        "cancel this card",
+        "I don't want my card"
+      ]
+    },
+    "MoreInformationIntent": {
+      "phrases": [
+        "more information",
+        "I would like to know more",
+        "I want to know about the bank"
+      ]
+    },
+    "InformationStoryIntent": {
+      "phrases": [
+        "I would like to know more about the story",
+        "What is the bank story",
+        "bank history"
+      ]
+    },
+    "InfromationBranchesIntent": {
+      "phrases": [
+        "I would like to know more about the branches",
+        "How many branches the bank has?",
+        "bank branches"
+      ]
+    },
+    "InformationClientsIntent": {
+      "phrases": [
+        "I would like to know more about the clients",
+        "How many clients you have",
+        "bank clients"
+      ]
+    }
+  }
+}
